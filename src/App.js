@@ -36,7 +36,7 @@ function App() {
           <Route path="/catalogue" element={<Catalogue />} />
           <Route path="/shared" element={<Shared/>} />
           <Route path='/edit-process' element={<EditProcess/>} />
-          <Route path='/editor-page' element={<EditorPage/>} />
+//           <Route path='/editor-page' element={<EditorPage/>} />
           <Route path='/drag-drop' element={<DragandDrop/>} />
           <Route path='/customer-sigma' element={<CustomerSigma/>} />
           <Route path='/single-product' element={<SingleProduct/>}/>
