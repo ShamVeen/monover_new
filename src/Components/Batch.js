@@ -27,7 +27,7 @@ function Batch() {
           <div className="d-flex flex-sm-column flex-row flex-nowrap align-items-center sticky-top">
             <ul className="nav nav-pills nav-flush flex-sm-column flex-row flex-nowrap mb-auto mx-auto text-center align-items-center">
               <li className="sidebar-menu d-flex justify-content-center align-items-center">
-                <Link to="/customer" className="nav-link" title="">
+                <Link to="/" className="nav-link" title="">
                   <svg
                     width="22"
                     height="19"
